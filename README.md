@@ -1,6 +1,9 @@
 ## simranandsaguni.github.io
 # Food and Beverage Sales Analysis through Power BI
+Food and Beverages have become an integral part of human not just for  survival but for celebration, entertainment, enjoyment and many more. While the kind of the foods we eat have greatly varied over the past years nevertheless to say, the development of the growing food and beverage culture has greatly advantaged not just the consumers but also in the sustainable development of the economy. Foods and beverages, we consumer solely reflects on our cultural aspect as well. Therefore, due to the rapid growth and development of Food and Beverage Industry, we have decided to doour project in this topic.
+
 The following blog showcases the data visualization of sales dataset for foods and beverages industry throughout the Quarter of the year 2019. The Power BI project was created by Saguni Thapa Magar and Simran Sapkota as a pair project.
+
 ### Overview of the Sales Data
 The Sales data for foods and beverages comprises information including Quantity, Product category, Product Group, Salesperson, etc. The key objective of this visualization is to understand how the revenue model and sales order for food and beverages are affected by factors such as channel, Product Category, Product Group, salesperson, etc. throughout the month and Quarter. 
 
