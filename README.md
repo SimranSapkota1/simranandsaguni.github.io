@@ -6,3 +6,5 @@
 
 The dataset is collected from Kaggle with the objective of visualizing the data.
 Dataset link: https://www.kaggle.com/datasets/krishnasharangam/food-and-beverage-sales-data
+#### The following are the work performed for this dataset
+#### i.) Model Relationship Management: 
