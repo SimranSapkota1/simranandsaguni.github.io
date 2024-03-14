@@ -30,13 +30,13 @@ The model relationship in powerbi shows how one data is structured and related t
 DAX formulas include functions, operators, and values to perform advanced calculations and queries on data in related tables and columns in tabular data models. We created a Sales Amount column, and from the new measure tool in table view through Formula Sales Amount = Sheet1[Quantity]* Sheet1[UnitPrice]. This created a total Sales Amount. This helped in the proper visualization and interpretation of the given data in the dashboard.
 
 ### Performance Measurement
-![Screenshot 2024-03-14 160948](https://github.com/SimranSapkota1/simransapkota/assets/159395426/d356a3c2-0747-4163-a664-200386274ec3)
+![Screenshot 2024-03-14 140919](https://github.com/sagthaa/D1/assets/159395442/25dd2be8-4764-436a-94cf-a7ccf533bc76)
 
 To measure the performance of the data, we used various tools like Bar Charts, Clustered Bar Charts, Donut Charts, Column Charts, Cards, etc., allowing us to interpret and understand the dataset information easily. These tools proved helpful for profitability measurement, tracking key performance indicators of Sales revenue, average order per product, customer acquisition and retention, and loss throughout the Quarters and months. Similarly, we can measure sales revenue or customer purchases on the basis of region, product categories, and varieties to identify high-profit areas so that maximum resources can be used for customer retention.
 Key Findings and Managerial Insights
 
 #### Basic Yearly Overview
-![Screenshot 2024-03-14 161143](https://github.com/SimranSapkota1/simransapkota/assets/159395426/82bd05e0-4e46-4192-acd5-f21949ef81cb)
+![Screenshot 2024-03-14 140919](https://github.com/sagthaa/D1/assets/159395442/25dd2be8-4764-436a-94cf-a7ccf533bc76)
 
 - The total revenue brought in by the food and beverage industry for the year was USD 17.91 million. There were 52.6K orders throughout the year, with an average ticket price (ATP) of USD $340.7.
 - Revenue and Orders by Month: Orders and revenue both reach their highest in October, with good performance in the summer, fall, and winter months (excluding February and March).
@@ -52,7 +52,8 @@ We aim to analyze the performance of sales and beverages through product segment
 
 #### a). Drink
 
-![Screenshot 2024-03-14 161444](https://github.com/SimranSapkota1/simransapkota/assets/159395426/f94ceeeb-96c9-4b1f-ab21-d2dcc42c3a83)
+![Screenshot 2024-03-14 141004](https://github.com/sagthaa/D1/assets/159395442/6ee29159-735f-476b-b0dc-ed69418dba34)
+
 
 - The total revenue brought in by drinks for the year was USD 1.54 million. There were 5146 orders throughout the year, with an average ticket price (ATP) of USD 299.7.
 - Revenue and Orders by Month: In the colder months, drink orders and revenue are relatively higher than in the warmer months. Orders and revenue both reach their highest in November and lowest in April for the year.
