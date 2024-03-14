@@ -22,13 +22,10 @@ The model relationship in powerbi shows how one data is structured and related t
 
 #### ii.) Implementation of Dax Formulas: 
 
-![Screenshot 2024-03-14 160315](https://github.com/SimranSapkota1/simransapkota/assets/159395426/9a560228-ec51-4be3-85a5-23f8254764a5)
-
-![Screenshot 2024-03-14 160442](https://github.com/SimranSapkota1/simransapkota/assets/159395426/1cc5bd0e-d058-42b9-ae62-c1cfb504fdc5)
-
-![Screenshot 2024-03-14 160616](https://github.com/SimranSapkota1/simransapkota/assets/159395426/279d3782-0c5b-4af9-b826-26523113fe59)
-
-![Screenshot 2024-03-14 160729](https://github.com/SimranSapkota1/simransapkota/assets/159395426/2202c330-ae79-41af-8ee9-78934861ab91)
+![1](https://github.com/sagthaa/D1/assets/159395442/5cd95e36-70c1-468d-bc4d-2b5b1c0d37d2)
+![2](https://github.com/sagthaa/D1/assets/159395442/720f8817-7050-4a68-b852-1d0543d6fe1e)
+![3](https://github.com/sagthaa/D1/assets/159395442/912fef17-2bbb-464c-a7a9-565f3e194adf)
+![4](https://github.com/sagthaa/D1/assets/159395442/e95891bb-a787-4b09-a9fc-61040de93190)
 
 DAX formulas include functions, operators, and values to perform advanced calculations and queries on data in related tables and columns in tabular data models. We created a Sales Amount column, and from the new measure tool in table view through Formula Sales Amount = Sheet1[Quantity]* Sheet1[UnitPrice]. This created a total Sales Amount. This helped in the proper visualization and interpretation of the given data in the dashboard.
 
