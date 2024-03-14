@@ -64,7 +64,7 @@ We aim to analyze the performance of sales and beverages through product segment
 
 #### b). Food
 
-![Screenshot 2024-03-14 161642](https://github.com/SimranSapkota1/simransapkota/assets/159395426/5dabdffb-58d2-418f-a4ab-68bd2d03c87d)
+![Screenshot 2024-03-14 142856](https://github.com/sagthaa/D1/assets/159395442/aa546ee5-757e-44b9-8e12-cd90b4e7ada8)
 
 - The total revenue brought in by food for the year was USD 16.37 million. There were 47.4K orders throughout the year, with an average ticket price (ATP) of USD $345.2.
 - Revenue and Orders by Month: In the colder months, food orders and revenue drop significantly, with the lowest of the year in February. Orders and revenue reach their highest in October, with good performance in the fall and summer months (May through January).
@@ -87,7 +87,7 @@ This data-driven approach can enhance profitability by maximizing sales opportun
 
 #### a). Distributors: 
 
-![Screenshot 2024-03-14 161844](https://github.com/SimranSapkota1/simransapkota/assets/159395426/d7f50f12-08ab-4524-8de7-c789af3fac22)
+![Screenshot 2024-03-14 144111](https://github.com/sagthaa/D1/assets/159395442/01654b51-d047-45a0-bd76-37ea5044ca54)
 
 - Distributors' total revenue for the year was USD 6.10 million. This included 18.3K orders annually and an average ticket price (ATP) of USD 333.9.
 - Revenue and Orders by Month: In the colder months, distributors' orders and revenue drop significantly, with the lowest of the year in February. The order and revenue both reach their highest in November, with good performance in the fall and winter months (May through January).
@@ -97,7 +97,7 @@ This data-driven approach can enhance profitability by maximizing sales opportun
 
 #### b).Online Channels
 
-![Screenshot 2024-03-14 162035](https://github.com/SimranSapkota1/simransapkota/assets/159395426/c89f2b0a-27b5-42fc-b5d7-47a9d0825963)
+![Screenshot 2024-03-14 145351](https://github.com/sagthaa/D1/assets/159395442/d6339990-9db0-4203-b435-963c09f09434)
 
 - The total revenue brought in by online channels for the year was USD 3.11 million. It consisted of 12K orders annually with an average ticket price (ATP) of USD 258.9.
 - Revenue and Orders by Month: In the spring and summer months, online channel orders and revenue drop significantly, with the lowest of the year in April. Orders and revenue both reach their highest in September, with good performance in the fall and winter months (September through January).
@@ -107,7 +107,7 @@ This data-driven approach can enhance profitability by maximizing sales opportun
 
 #### c). Retails:
 
-![Screenshot 2024-03-14 162246](https://github.com/SimranSapkota1/simransapkota/assets/159395426/493f6e4f-dc38-4c7f-8d96-d8d98c74f54f)
+![Screenshot 2024-03-14 150134](https://github.com/sagthaa/D1/assets/159395442/75da5892-4964-499f-bbff-e2ed7ef00bc6)
 
 - The total revenue brought in by retail channels for the year was USD 8.70 million. It consisted of 22.3K orders throughout the year with an average ticket price (ATP) of USD $390.6.
 - Revenue and Orders by Month: In the winter months, retail channel orders and revenue drop significantly, with the lowest of the year in February. Orders and revenue both reach their highest in October, with good performance in the summer and fall months (May through October).
